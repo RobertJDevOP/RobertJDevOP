@@ -14,6 +14,7 @@
 #### Databases
 
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-SQLServer-informational?style=flat&logo=sqlserver&logoColor=white&color=2bbc8a)
 
 
 #### Frameworks y Libraries
