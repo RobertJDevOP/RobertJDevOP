@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**RobertJDevOP/RobertJDevOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+#### Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+
+#### Frontend
+![](https://img.shields.io/badge/Code-Js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+
+
+#### Databases
+
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
+
+#### Frameworks y Libraries
+
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-Jquery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
+
+
+#### Tools
+
+![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=composer&logoColor=white&color=2bbc8a)
+
+### Communications
+
+![](https://img.shields.io/badge/Comunnications-Slack-informational?style=flat&logo=slack&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Comunnications-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=2bbc8a)
+
+
+
