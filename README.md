@@ -4,6 +4,7 @@
 #### Backend
 
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 #### Frontend
 ![](https://img.shields.io/badge/Code-Js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
