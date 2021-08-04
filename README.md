@@ -30,7 +30,5 @@
 ### Communications
 
 ![](https://img.shields.io/badge/Comunnications-Slack-informational?style=flat&logo=slack&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Comunnications-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=2bbc8a)
-
 
 
