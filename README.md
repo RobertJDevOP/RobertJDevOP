@@ -27,8 +27,7 @@
 
 ![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=composer&logoColor=white&color=2bbc8a)
 
-### Communications
 
-![](https://img.shields.io/badge/Comunnications-Slack-informational?style=flat&logo=slack&logoColor=white&color=2bbc8a)
-
+## &nbsp;&nbsp;My stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertJDevOP)](https://github.com/anuraghazra/github-readme-stats)
 
