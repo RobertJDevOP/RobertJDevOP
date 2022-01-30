@@ -29,7 +29,7 @@
 
 
 
-[linkedin]: roberto-jiménez-785944190
+[linkedin]: https://www.linkedin.com/in/roberto-jim%C3%A9nez-785944190/
 
 
 ## &nbsp;&nbsp;My stats:
