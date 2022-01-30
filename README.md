@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I am a full stack developer from Colombia, why full stack? I have been able to have the opportunity to build complete applications but I love the backend development more, I must be honest my work experience in the industry is already 3 years old.
+- 🌱 I am a full stack developer from Colombia, why full stack? I have been able to have the opportunity to build complete applications but I love the backend development more, I must be honest my work experience in the industry is already three years old.
 - Fan of technology I think that technology can change many things in this world ❤️
 
 ### Connect with me:
